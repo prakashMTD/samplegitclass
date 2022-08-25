@@ -15,7 +15,19 @@ public class Employee {
 		System.out.println("test3");
 
 	}
-	
+
+	public void coimbatore() {
+		System.out.println("coimbatore");
+
+	}
+	public void chennai() {
+		System.out.println("chennai");
+
+	}
+	public void trichy() {
+		System.out.println("trichy");
+
+	}
 	
 	
 	
